@@ -1,5 +1,5 @@
 # SubTerraTania---EXPERIMENTAL
-My Test Game
+SubTerraTania
 
 Game Name: SubTerratania
 Version: 0.01 EXPERIMENTAL
